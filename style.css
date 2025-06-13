@@ -529,3 +529,12 @@ body {
         padding-left: 30px;
     }
 }
+
+/* Estilos para la edad  */
+.hero_image .hero_age {
+    text-align: center; 
+    margin-top: 13px; 
+    font-size: 1.5em; 
+    color: #333; 
+    font-weight: 1000; 
+}
